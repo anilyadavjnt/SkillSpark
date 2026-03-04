@@ -1,8 +1,8 @@
 SkillSpark
 SkillSpark is a minimalist iOS application designed to help users build a habit of daily learning. It focuses on the concept of "Micro-learning," encouraging users to dedicate just 10 minutes a day to practice a specific skill, such as Swift programming.
 
-<img width="1179" height="2556" alt="Home" src="https://github.com/user-attachments/assets/199ae98f-d3f0-4431-8065-5f2ed5d3aa52" />
-<img width="1179" height="2556" alt="Practice" src="https://github.com/user-attachments/assets/21c685af-48a0-4701-b885-590d4776d3a9" />
+<img width="375" height="667" alt="Home" src="https://github.com/user-attachments/assets/199ae98f-d3f0-4431-8065-5f2ed5d3aa52" />
+<img width="375" height="667" alt="Practice" src="https://github.com/user-attachments/assets/21c685af-48a0-4701-b885-590d4776d3a9" />
 
 🚀 Features
 Personalized Dashboard: A clean "Home" interface that displays the daily target and the current skill to practice.
@@ -24,5 +24,5 @@ UI Components: Auto Layout, ProgressView, Custom Buttons, and UIAlertController.
 
 Development: Developed using Xcode and tested on iPhone 14 Pro Simulator.
 
-<img width="1179" height="2556" alt="Completion Alert" src="https://github.com/user-attachments/assets/21dfe006-8e61-4e79-810b-b990000ff89b" />
-<img width="1179" height="2556" alt="Home Completed" src="https://github.com/user-attachments/assets/21da2f14-3d43-4aff-80e1-8231bc4b8c63" />
+<img width="375" height="667" alt="Completion Alert" src="https://github.com/user-attachments/assets/21dfe006-8e61-4e79-810b-b990000ff89b" />
+<img width="375" height="667" alt="Home Completed" src="https://github.com/user-attachments/assets/21da2f14-3d43-4aff-80e1-8231bc4b8c63" />
