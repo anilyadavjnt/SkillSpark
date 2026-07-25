@@ -1,3 +1,4 @@
+
 SkillSpark
 SkillSpark is a minimalist iOS application designed to help users build a habit of daily learning. It focuses on the concept of "Micro-learning," encouraging users to dedicate just 10 minutes a day to practice a specific skill, such as Swift programming.
 
