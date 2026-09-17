@@ -30,13 +30,13 @@ The project focuses on building a clean and responsive iOS experience using **Sw
 
 ## 📱 Screenshots
 
-<img width="300" height="667" alt="Home" src="https://github.com/user-attachments/assets/199ae98f-d3f0-4431-8065-5f2ed5d3aa52" />
-<img width="300" height="667" alt="Practice" src="https://github.com/user-attachments/assets/21c685af-48a0-4701-b885-590d4776d3a9" />
+<img width="300" height="600" alt="Home" src="https://github.com/user-attachments/assets/199ae98f-d3f0-4431-8065-5f2ed5d3aa52" />
+<img width="300" height="600" alt="Practice" src="https://github.com/user-attachments/assets/21c685af-48a0-4701-b885-590d4776d3a9" />
 
 
 
-<img width="300" height="667" alt="Completion Alert" src="https://github.com/user-attachments/assets/21dfe006-8e61-4e79-810b-b990000ff89b" />
-<img width="300" height="667" alt="Home Completed" src="https://github.com/user-attachments/assets/21da2f14-3d43-4aff-80e1-8231bc4b8c63" />
+<img width="300" height="600" alt="Completion Alert" src="https://github.com/user-attachments/assets/21dfe006-8e61-4e79-810b-b990000ff89b" />
+<img width="300" height="600" alt="Home Completed" src="https://github.com/user-attachments/assets/21da2f14-3d43-4aff-80e1-8231bc4b8c63" />
 
 
 
