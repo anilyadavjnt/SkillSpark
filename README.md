@@ -38,9 +38,7 @@ The project focuses on building a clean and responsive iOS experience using **Sw
 <img width="375" height="667" alt="Completion Alert" src="https://github.com/user-attachments/assets/21dfe006-8e61-4e79-810b-b990000ff89b" />
 <img width="375" height="667" alt="Home Completed" src="https://github.com/user-attachments/assets/21da2f14-3d43-4aff-80e1-8231bc4b8c63" />
 
-| Home           | Skills         | Details        |
-| -------------- | -------------- | -------------- |
-| Add Screenshot | Add Screenshot | Add Screenshot |
+
 
 ## 🏗 Project Structure
 
