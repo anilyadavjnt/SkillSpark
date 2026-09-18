@@ -39,7 +39,6 @@ The project focuses on building a clean and responsive iOS experience using **Sw
 <img width="300" height="550" alt="Home Completed" src="https://github.com/user-attachments/assets/21da2f14-3d43-4aff-80e1-8231bc4b8c63" />
 
 
-
 ## 🏗 Project Structure
 
 ```text
